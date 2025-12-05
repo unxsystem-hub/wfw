@@ -1,0 +1,6 @@
+*{box-sizing:border-box;font-family:Inter, system-ui, Arial}
+body{margin:0;background:linear-gradient(180deg,#071025,#02111a);color:#fff}
+.container{max-width:1000px;margin:40px auto;padding:20px}
+.card{background:rgba(255,255,255,0.03);padding:20px;border-radius:12px;border:1px solid rgba(255,255,255,0.03)}
+button{cursor:pointer;border:none}
+label{font-size:14px;color:#cbd5e1}
